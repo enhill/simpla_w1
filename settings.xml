@@ -33,6 +33,6 @@
 	</settings>
 	<settings>	
 		<variable>WMI_SIGNATURE</variable>
-		<name>Секретный ключ (если нужно)</name>
+		<name>Секретный ключ</name>
 	</settings>	
 </module>
